@@ -13,13 +13,14 @@
     },
     "updates": {
       "fallbackToCacheTimeout": 0,
-      "url": "https://u.expo.dev/d5e811ba-b984-4094-bd98-90e56b807279"
+      "url": "https://u.expo.dev/4b7dbeb2-da65-465b-b5d6-340204d45100"
     },
     "assetBundlePatterns": [
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.douglowderexpo.imageapp"
     },
     "android": {
       "adaptiveIcon": {
